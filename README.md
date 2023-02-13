@@ -2,8 +2,6 @@
 
 **Authors: Rui Wen**
 
-**Class: CSCI 2750**
-
 ### Project Overview
 The objective of this project is to use knowlege on doubly-linked lists, singly-linked lists, and hash tables to implement a rudimentary form of GitHub in the CSEL file and coding environment.
 
